@@ -1,5 +1,6 @@
 Dates of completion, will be cool to look back on after a while
 
+29/04/2024 - 2997. Minimum Number of Operations to Make Array XOR Equal to K <br/>
 26/04/2024 - 1289. Minimum Falling Path Sum II <br/>
 24/04/2024 - 1137. N-th Tribonacci Number <br/>
 23/04/2024 - 310. Minimum Height Trees<br/>
