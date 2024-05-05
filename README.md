@@ -1,5 +1,6 @@
 Dates of completion, will be cool to look back on after a while
 
+05/05/2024 - 237. Delete Node in a Linked List <br/>
 03/05/2024 - 66. Plus One <br/>
 03/05/2024 - 165. Compare Version Numbers <br/>
 02/05/2024 - 2441. Largest Positive Integer That Exists With Its Negative <br/>
