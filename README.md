@@ -1,5 +1,6 @@
 Dates of completion, will be cool to look back on after a while
 
+08/05/2024 - 506. Relative Ranks <br/>
 07/05/2024 - 2816. Double a Number Represented as a Linked List.py <br/>
 06/05/2024 - 2487. Remove Nodes From Linked List <br/>
 05/05/2024 - 237. Delete Node in a Linked List <br/>
