@@ -3,9 +3,6 @@ from collections import deque
 class Solution:
     def openLock(self, deadends: List[str], target: str) -> int:
         start = "0000" # Creating a start point
-        # If unsolvable straight away
-        if start in deadends:
-            return -1
         
         # Function to generate neighboring lock combinations
         def get_neighbors(lock):
