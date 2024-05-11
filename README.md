@@ -1,5 +1,6 @@
 Dates of completion, will be cool to look back on after a while
 
+10/05/2024 - 786. K-th Smallest Prime Fraction <br/>
 09/05/2024 - 3075. Maximize Happiness of Selected Children <br/>
 08/05/2024 - 506. Relative Ranks <br/>
 07/05/2024 - 2816. Double a Number Represented as a Linked List.py <br/>
