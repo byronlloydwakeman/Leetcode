@@ -1,5 +1,6 @@
 Dates of completion, will be cool to look back on after a while
 
+12/05/2024 - 2373. Largest Local Values in a Matrix <br/>
 10/05/2024 - 786. K-th Smallest Prime Fraction <br/>
 09/05/2024 - 3075. Maximize Happiness of Selected Children <br/>
 08/05/2024 - 506. Relative Ranks <br/>
