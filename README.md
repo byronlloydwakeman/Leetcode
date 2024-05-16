@@ -1,5 +1,6 @@
 Dates of completion, will be cool to look back on after a while
 
+16/05/2024 - 2331. Evaluate Boolean Binary Tree <br/>
 12/05/2024 - 2373. Largest Local Values in a Matrix <br/>
 11/05/2024 - 3142. Check if Grid Satisfies Conditions <br/>
 10/05/2024 - 786. K-th Smallest Prime Fraction <br/>
