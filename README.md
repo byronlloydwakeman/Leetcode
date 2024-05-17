@@ -1,5 +1,6 @@
 Dates of completion, will be cool to look back on after a while
 
+17/05/2024 - 1325. Delete Leaves With a Given Value <br/>
 16/05/2024 - 2331. Evaluate Boolean Binary Tree <br/>
 12/05/2024 - 2373. Largest Local Values in a Matrix <br/>
 11/05/2024 - 3142. Check if Grid Satisfies Conditions <br/>
