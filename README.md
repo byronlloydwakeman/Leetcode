@@ -1,5 +1,10 @@
 Dates of completion, will be cool to look back on after a while
 
+22/05/2024 - 131. Palindrome Partitioning <br/>
+21/05/2024 - 78. Subsets <br/>
+20/05/2024 - 1863. Sum of All Subset XOR Totals <br/>
+19/05/2024 - 3068. Find the Maximum Sum of Node Values <br/>
+18/05/2024 - 979. Distribute Coins in Binary Tree <br/>
 17/05/2024 - 1325. Delete Leaves With a Given Value <br/>
 16/05/2024 - 2331. Evaluate Boolean Binary Tree <br/>
 12/05/2024 - 2373. Largest Local Values in a Matrix <br/>
